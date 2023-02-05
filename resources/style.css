@@ -158,3 +158,16 @@ figcaption {
     flex-direction: column;
     justify-content: space-around;
 }
+
+/* FOOTER */
+
+footer {
+    position: relative;
+    top: 70px;
+    margin: 20px;
+    padding-bottom: 20px;
+}
+
+footer h5 {
+    text-align: left;
+}
