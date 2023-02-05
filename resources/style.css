@@ -149,3 +149,12 @@ figcaption {
     margin-right: 20px;
     margin-left: 20px;
 }
+
+/* CONTACT */
+
+#contact {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
