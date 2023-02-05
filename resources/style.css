@@ -66,3 +66,19 @@ main {
 #mission h4 {
     padding: 10px;
 }
+
+/* FEATURED */
+
+#featured {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin: 0 auto;
+}
+
+.featured-head {
+    margin-bottom: 10px;
+}
